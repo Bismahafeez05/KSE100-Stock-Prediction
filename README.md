@@ -23,7 +23,7 @@ Python | Pandas | Scikit-learn | Matplotlib | Seaborn
 Pakistan Stock Exchange — KSE-100 
 
 
-##👥 Project Contributions
+## project contributions
 
 This project was completed as a group effort, with each member contributing to different stages of the data science workflow:
 
