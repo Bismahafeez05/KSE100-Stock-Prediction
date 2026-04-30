@@ -10,7 +10,7 @@ Pakistan's KSE-100 Stock Exchange using historical market data.
 - Exploratory Data Analysis (EDA) with visualizations
 - 3 ML Models: Linear Regression, Decision Tree, Random Forest
 - Model Evaluation & Comparison (MAE, MSE, R² Score)
-- Model DEPLOYMENT 
+- Model Deployment 
 
 ## Best Model: Linear Regression
 - R² Score: 0.9998
